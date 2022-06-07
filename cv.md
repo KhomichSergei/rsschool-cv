@@ -2,7 +2,7 @@
 
 ---
 
-## \* **Contacts**:
+## **Contacts**:
 
 - Discord: Сергей(@KhomichSergei)
 - E-mail: s.khomich1986@gmail.com
@@ -67,7 +67,7 @@ console.log (searchVowels3(enterStr));
 
 ---
 
-## \* **Education:**
+## **Education:**
 
 - Gomel State University
 
@@ -80,22 +80,17 @@ console.log (searchVowels3(enterStr));
 
 ---
 
-## \* **Experience:**
+## **Experience:**
 
 - Belgosstrakh Insurance Company
-
-* department of analysis and planning
-* department of business risk insurance
-
+  - department of analysis and planning
+  - department of business risk insurance
 - Sberbank
-
-* department of crediting legal entities
-
+  - department of crediting legal entities
 - Technobank
+  - collateral analysis department
 
-* ## collateral analysis department
-
-## \* **Languages:**
+## **Languages:**
 
 - English A2
 - Russian native
