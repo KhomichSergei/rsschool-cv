@@ -2,7 +2,7 @@
 
 ---
 
-## \* \*\*Contacts:
+## \* **Contacts**:
 
 - Discord: Сергей(@KhomichSergei)
 - E-mail: s.khomich1986@gmail.com
@@ -11,13 +11,13 @@
 
 ---
 
-## \*\*Summary:
+## **Summary**:
 
 Very responsible and executive. I like to be creative and create something new. I want to become a great WEB developer.
 
 ---
 
-## \*\*Skills:
+## **Skills**:
 
 - HTML
 - CSS/SCSS
@@ -25,7 +25,7 @@ Very responsible and executive. I like to be creative and create something new. 
 
 ---
 
-## \*\*Code example:
+## **Code example**:
 
 ```
 let enterStr = prompt("Введите строку");
@@ -67,7 +67,7 @@ console.log (searchVowels3(enterStr));
 
 ---
 
-## \* \*\*Education
+## \* **Education:**
 
 - Gomel State University
 
@@ -76,11 +76,11 @@ console.log (searchVowels3(enterStr));
 - IT Academy, Minsk
 
 * HTML&CSS
-* Java Sccript
+* Java Script
 
 ---
 
-## \* \*\*Work experience:
+## \* **Experience:**
 
 - Belgosstrakh Insurance Company
 
@@ -95,7 +95,7 @@ console.log (searchVowels3(enterStr));
 
 * ## collateral analysis department
 
-## \* \*\*Languages
+## \* **Languages:**
 
 - English A2
 - Russian native
