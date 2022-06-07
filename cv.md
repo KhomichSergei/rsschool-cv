@@ -80,7 +80,7 @@ console.log (searchVowels3(enterStr));
 
 ---
 
-## \* \*\*Education
+## \* \*\*Work experience:
 
 - Belgosstrakh Insurance Company
 
@@ -93,8 +93,7 @@ console.log (searchVowels3(enterStr));
 
 - Technobank
 
-* collateral analysis department
-  ---
+* ## collateral analysis department
 
 ## \* \*\*Languages
 
