@@ -70,13 +70,10 @@ console.log (searchVowels3(enterStr));
 ## **Education:**
 
 - Gomel State University
-
-* accounting, analysis and audit in banks
-
+  - accounting, analysis and audit in banks
 - IT Academy, Minsk
-
-* HTML&CSS
-* Java Script
+  - HTML&CSS
+  - Java Script
 
 ---
 
